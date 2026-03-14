@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Re:You",
+  "base_artist": "高橋李依",
+  "createdAt": "2026-03-14T06:09:34.761401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "What′re you doing tonight? (Inst.)",
+      "artist": "YUKIKA",
+      "has_synced": true,
+      "path": "select/01_What′re_you_doing_tonight__(Inst.)_YUKIKA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "What′re You Doing Tonight? (Inst.)",
+      "artist": "Gyeong Ree",
+      "has_synced": true,
+      "path": "select/02_What′re_You_Doing_Tonight__(Inst.)_Gyeong_Ree.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "07. Re:you ~ Even if one knew the world ~",
+      "artist": "Apo11o program",
+      "has_synced": true,
+      "path": "select/03_07._Re_you_~_Even_if_one_knew_the_world_~_Apo11o_program.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Who´re You",
+      "artist": "Fela Kuti",
+      "has_synced": false,
+      "path": "select/04_Who_́re_You_Fela_Kuti.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Who´re You",
+      "artist": "Fela & The Africa 70",
+      "has_synced": false,
+      "path": "select/05_Who_́re_You_Fela_&_The_Africa_70.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Re:You",
+      "artist": "高橋李依",
+      "has_synced": false,
+      "path": "select/pl_01_Re_You_高橋李依.txt"
+    }
+  ]
+}
